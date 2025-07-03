@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gdgw281zj-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gdgw281zj-python-gitops
